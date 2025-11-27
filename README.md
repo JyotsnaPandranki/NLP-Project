@@ -7,13 +7,15 @@
 
 ├── CODES/ # Modular ML pipeline scripts 
 
- ├── visualizations/ # PCA, t-SNE, confusion matrix 
+├── visualizations/ # PCA, t-SNE, confusion matrix 
 
- ├── requirements.txt # Dependencies 
+├── requirements.txt # Dependencies 
 
 ├── predict_realtime.py # Real Time voice Translator using the system mic 
 
- └── README.md # Documentation 
+├── REPORT.pdf
+
+└── README.md # Documentation 
 
  
 
